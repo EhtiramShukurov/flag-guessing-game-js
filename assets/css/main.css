@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Starzone;
+    src: url(../fonts/Starzone.ttf);
+  }
+  @font-face {
+    font-family: Arcadia;
+    src: url(../fonts/Arcadia.ttf);
+  }
+
+.font-1{
+  color: #D2042D;
+  font-size: 32px;
+  font-family: 'Starzone',sans-serif;
+}
+.font-2{
+  color: #191970;
+  font-family: 'Arcadia',sans-serif;
+}
